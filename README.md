@@ -130,3 +130,22 @@ Built an `account_kpi` dataset with:
 ---
 
 ## 📌 Project Structure
+```
+saas-revenue-intelligence/ 
+│
+├── data/
+│ ├── account_kpi.csv
+│ └── raw_datasets/
+│
+├── notebooks/
+│ └── saas_analysis.ipynb
+│
+├── dashboard/
+│ └── saas_dashboard.pbix
+│
+├── images/
+│ ├── dashboard_page1.png
+│ └── dashboard_page2.png
+│
+└── README.md
+```
