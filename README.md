@@ -149,3 +149,12 @@ saas-revenue-intelligence/
 │
 └── README.md
 ```
+
+
+---
+
+## 💡 Key Learning
+
+> Data analysis is not just about creating dashboards, but about identifying business problems, validating them with data, and delivering actionable insights.
+
+---
