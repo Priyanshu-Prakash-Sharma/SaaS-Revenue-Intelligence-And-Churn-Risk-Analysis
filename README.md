@@ -9,7 +9,7 @@ The objective is to move beyond simple reporting and identify:
 - Key drivers of customer churn  
 - Revenue impact of churned customers  
 - High-risk customer segments  
-- Actionable strategies to improve retention  
+- Actionable strategies to improve retention    
 
 ---
 
